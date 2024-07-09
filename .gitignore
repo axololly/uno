@@ -1,0 +1,6 @@
+test.py
+test*.py
+__pycache__/
+core/__pycache__/
+yapping.yaml
+.gitignore
